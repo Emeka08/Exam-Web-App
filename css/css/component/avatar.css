@@ -1,0 +1,25 @@
+.avatar {
+	border-radius: 50%;
+	width: auto;
+}
+.avatar-sm {
+	border-radius: 50%;
+	width: 30px;
+}
+.avatar-md {
+	border-radius: 50%;
+	width: 70px;
+}
+.avatar-lg {
+	border-radius: 50%;
+	width: 100px;
+}
+.square {
+	border-radius: 0 !important;
+}
+.rounded {
+	border-radius: 15px !important;
+}
+.circle {
+	border-radius: 50% !important;
+}
